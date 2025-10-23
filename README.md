@@ -1,16 +1,16 @@
-<h1 align="center">👋 Olá, me chamo <strong>Gabriel Souza</strong>!</h1>
+<h1 align="center">👋 Hi, I'm <strong>Gabriel Souza</strong>!</h1>
 
 <p align="center">
   💼 <strong>QA Engineer | Test Automation | CI/CD</strong>  
   <br>
-  🚀 Apaixonado por qualidade de software, automação de testes e boas práticas de desenvolvimento.  
+  🚀 Passionate about software quality, test automation, and best development practices.  
   <br>
-  🎯 Busco constantemente aprimorar processos de testes, garantindo entregas ágeis, seguras e de alta qualidade.
+  🎯 Constantly improving testing processes to ensure fast, secure, and high-quality deliveries.
 </p>
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🧰 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white"/>
@@ -42,24 +42,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielsouza80/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center" alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
-  <a href="mailto:gabriel.dias808005@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <a href="mailto:gabriel.dias808005@outlook.com" target="_blank">
+    <img align="center" alt="Email" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <em>“Quality is never an accident; it is always the result of intelligent effort.”</em> — John Ruskin
+  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
 </p>
