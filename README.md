@@ -13,7 +13,7 @@
 ### 🧰 Technologies & Tools
 
 <p align="center">
-  <!-- Badges -->
+  <!-- Badges com cores específicas de cada tecnologia -->
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -28,7 +28,7 @@
 </p>
 
 <div align="center" style="margin-top: 15px;">
-  <!-- Icons in order -->
+  <!-- Icons na mesma ordem, visual limpo -->
   <img alt="Playwright" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
   <img alt="RobotFramework" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
@@ -47,8 +47,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <!-- Tema mais sóbrio e formal, cores masculinas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
