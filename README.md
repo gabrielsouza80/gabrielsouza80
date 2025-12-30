@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>💼 QA Engineer | 🧪 Test Automation Specialist | ⚙️ CI/CD Enthusiast</strong>
-  <br><br>
+  <br>
   🚀 Passionate about building reliable, scalable, and maintainable test automation frameworks.  
   <br>
   🎯 Focused on quality engineering, continuous improvement, and delivering high‑confidence software.
