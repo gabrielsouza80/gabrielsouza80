@@ -45,8 +45,29 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight"/>
+
+  <!-- GitHub Stats -->
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight&cache_seconds=7200"
+  />
+
+</p>
+
+<p align="center">
+
+  <!-- Streak Stats -->
+  <img 
+    height="165" 
+    src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
+  />
+
 </p>
 
 ---
