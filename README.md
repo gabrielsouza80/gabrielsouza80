@@ -26,24 +26,29 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Overview
+
+<table align="center">
+  <tr>
+    <td><strong>⭐ Repositories</strong></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><strong>📝 Commits</strong></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><strong>💬 Languages</strong></td>
+    <td>TypeScript, Python, JavaScript, Shell</td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Expertise</strong></td>
+    <td>Automation, QA, CI/CD, Framework Architecture</td>
+  </tr>
+</table>
 
 <p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&rank_icon=github"
-  />
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="165"
-    src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight"
-  />
+  <em>Static and fully stable — no external services required.</em>
 </p>
 
 ---
