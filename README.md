@@ -50,6 +50,7 @@
 <p align="center">
   <em>Seção estática e totalmente estável — sem dependências externas.</em>
 </p>
+
 ---
 
 ## 🌐 Connect with Me
