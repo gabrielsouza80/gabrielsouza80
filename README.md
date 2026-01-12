@@ -36,9 +36,9 @@
   <tr>
     <td><strong>📝 Commits</strong></td>
     <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
-  <td><strong>💬 Lingu </tr>
+  </tr>
   <tr>
-   agens</strong></td>
+    <td><strong>💬 Linguagens</strong></td>
     <td>TypeScript, Python, JavaScript, Shell</td>
   </tr>
   <tr>
@@ -50,7 +50,6 @@
 <p align="center">
   <em>Seção estática e totalmente estável — sem dependências externas.</em>
 </p>
-
 ---
 
 ## 🌐 Connect with Me
