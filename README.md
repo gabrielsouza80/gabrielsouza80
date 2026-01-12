@@ -36,18 +36,18 @@
   <tr>
     <td><strong>📝 Commits</strong></td>
     <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
-  </tr>
+  <td><strong>💬 Lingu </tr>
   <tr>
-    <td><strong>💬 Linguagens</strong></td>
+   agens</strong></td>
     <td>TypeScript, Python, JavaScript, Shell</td>
   </tr>
   <tr>
     <td><strong>🧪 Especialização</strong></td>
-    <td>Automação, Garantia de Qualidade, CI/CD e Arquitetura de Framework
-
-<p align="center"></td>
+    <td>Automação, Garantia de Qualidade, CI/CD e Arquitetura de Framework</td>
   </tr>
 </table>
+
+<p align="center">
   <em>Seção estática e totalmente estável — sem dependências externas.</em>
 </p>
 
@@ -60,12 +60,12 @@
     <img alt="LinkedIn" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabriel.dias808005@outlook.com" target="_blank">
-    <img alt="Email" height="35" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><p align="center">
+    <img alt="Email" height="35" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-
-  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
+<p align="center">
+  ✨ <em>"Quality is never an accident result of intelligent; it is always the effort."</em> — John Ruskin
 </p>
