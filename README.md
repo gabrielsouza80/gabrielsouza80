@@ -1,10 +1,8 @@
 <h1 align="center">✨ Hey there! I'm <strong>Gabriel Souza</strong></h1>
 
 <p align="center">
-  <strong>💼 QA Engineer | 🧪 Test Automation Specialist | ⚙️ CI/CD Enthusiast</strong>
-  <br>
-  🚀 Passionate about building reliable, scalable, and maintainable test automation frameworks.  
-  <br>
+  <strong>💼 QA Engineer | 🧪 Test Automation Specialist | ⚙️ CI/CD Enthusiast</strong><br>
+  🚀 Passionate about building reliable, scalable, and maintainable test automation frameworks.<br>
   🎯 Focused on quality engineering, continuous improvement, and delivering high‑confidence software.
 </p>
 
@@ -26,48 +24,17 @@
   <img src="https://img.shields.io/badge/BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
 </p>
 
-<div align="center" style="margin-top: 15px;">
-  <img alt="Playwright" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
-  <img alt="RobotFramework" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
-  <img alt="Cypress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
-  <img alt="Selenium" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="Jenkins" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Cucumber" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
-</div>
-
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"
-  />
-
-  <!-- Most Used Languages -->
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight&cache_seconds=7200"
-  />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-  <!-- Streak Stats -->
-  <img 
-    height="165" 
-    src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
-  />
-
+  <img height="165" src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
@@ -86,5 +53,5 @@
 ---
 
 <p align="center">
-  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin  
+  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
 </p>
