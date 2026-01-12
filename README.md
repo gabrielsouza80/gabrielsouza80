@@ -29,12 +29,21 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight"/>
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=gabrielsouza80&show_icons=true&theme=tokyonight&rank_icon=github"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza80&layout=compact&theme=tokyonight"
+  />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight&hide_border=false"/>
+  <img 
+    height="165"
+    src="https://streak-stats.demolab.com?user=gabrielsouza80&theme=tokyonight"
+  />
 </p>
 
 ---
