@@ -1,13 +1,13 @@
 <h1 align="center">✨ Gabriel Souza</h1>
 
 <p align="center">
-  <strong>QA Engineer • Test Automation Specialist • CI/CD Enthusiast</strong><br>
+  <strong>Engenheiro de QA • Especialista em Automação de Testes • Entusiasta de CI/CD</strong><br>
   Construindo frameworks de automação escaláveis, confiáveis e orientados à qualidade.
 </p>
 
 ---
 
-## 🧰 Tech Stack & Tooling
+## 🧰 Conjunto de Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white"/>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><strong>📝 Commits</strong></td>
-    <td>Ent em automação, testesregas consistentes funcionais e melhoria contínua</td>
+    <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
   </tr>
   <tr>
     <td><strong>💬 Linguagens</strong></td>
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielsouza80/" target="_blank">
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
+  ✨ <em>"A qualidade nunca é um acidente de um esforço inteligente; é sempre o resultado."</em> — John Ruskin
 </p>
