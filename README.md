@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td><strong>⭐ Repositórios</strong></td>
-    <td>Frameworks de testes, autom estudos técnicosação web, APIs e</td>
+    <td>Frameworks de testes, automação web, APIs e estudos técnicos</td>
   </tr>
   <tr>
     <td><strong>📝 Commits</strong></td>
@@ -43,12 +43,12 @@
   </tr>
   <tr>
     <td><strong>🧪 Especialização</strong></td>
-    <td>Automação, Garantia de Qualidade, CI/CD, Arquitetura de Framework</td>
+    <td>Automação, Garantia de Qualidade, CI/CD e Arquitetura de Framework
+
+<p align="center"></td>
   </tr>
 </table>
-
-<p align="center">
-  <em>Secção estática e totalmente estável — sem dependências externas.</em>
+  <em>Seção estática e totalmente estável — sem dependências externas.</em>
 </p>
 
 ---
