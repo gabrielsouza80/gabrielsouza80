@@ -1,9 +1,8 @@
-<h1 align="center">✨ Hey there! I'm <strong>Gabriel Souza</strong></h1>
+<h1 align="center">✨ Gabriel Souza</h1>
 
 <p align="center">
-  <strong>💼 QA Engineer | 🧪 Test Automation Specialist | ⚙️ CI/CD Enthusiast</strong><br>
-  🚀 Passionate about building reliable, scalable, and maintainable test automation frameworks.<br>
-  🎯 Focused on quality engineering, continuous improvement, and delivering high‑confidence software.
+  <strong>QA Engineer • Test Automation Specialist • CI/CD Enthusiast</strong><br>
+  Construindo frameworks de automação escaláveis, confiáveis e orientados à qualidade.
 </p>
 
 ---
@@ -35,7 +34,7 @@
   </tr>
   <tr>
     <td><strong>📝 Commits</strong></td>
-    <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
+    <td>Ent em automação, testesregas consistentes funcionais e melhoria contínua</td>
   </tr>
   <tr>
     <td><strong>💬 Linguagens</strong></td>
@@ -67,5 +66,5 @@
 ---
 
 <p align="center">
-  ✨ <em>"Quality is never an accident result of intelligent; it is always the effort."</em> — John Ruskin
+  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
 </p>
