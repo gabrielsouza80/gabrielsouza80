@@ -26,29 +26,29 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Visão Geral do GitHub
 
 <table align="center">
   <tr>
-    <td><strong>⭐ Repositories</strong></td>
-    <td>—</td>
+    <td><strong>⭐ Repositórios</strong></td>
+    <td>Frameworks de testes, autom estudos técnicosação web, APIs e</td>
   </tr>
   <tr>
     <td><strong>📝 Commits</strong></td>
-    <td>—</td>
+    <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
   </tr>
   <tr>
-    <td><strong>💬 Languages</strong></td>
+    <td><strong>💬 Linguagens</strong></td>
     <td>TypeScript, Python, JavaScript, Shell</td>
   </tr>
   <tr>
-    <td><strong>🧪 Expertise</strong></td>
-    <td>Automation, QA, CI/CD, Framework Architecture</td>
+    <td><strong>🧪 Especialização</strong></td>
+    <td>Automação, Garantia de Qualidade, CI/CD, Arquitetura de Framework</td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Static and fully stable — no external services required.</em>
+  <em>Secção estática e totalmente estável — sem dependências externas.</em>
 </p>
 
 ---
@@ -60,12 +60,12 @@
     <img alt="LinkedIn" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabriel.dias808005@outlook.com" target="_blank">
-    <img alt="Email" height="35" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" height="35" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><p align="center">
   </a>
 </p>
 
 ---
 
-<p align="center">
+
   ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
 </p>
