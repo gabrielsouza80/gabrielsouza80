@@ -1,13 +1,13 @@
 <h1 align="center">✨ Gabriel Souza</h1>
 
 <p align="center">
-  <strong>Engenheiro de QA • Especialista em Automação de Testes • Entusiasta de CI/CD</strong><br>
-  Construindo frameworks de automação escaláveis, confiáveis e orientados à qualidade.
+  <strong>QA Engineer • Test Automation Specialist • CI/CD Practitioner</strong><br>
+  Building scalable, reliable, and quality‑driven automation frameworks.
 </p>
 
 ---
 
-## 🧰 Conjunto de Tecnologias e Ferramentas
+## 🧰 Tech Stack & Tooling
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white"/>
@@ -25,34 +25,34 @@
 
 ---
 
-## 📊 Visão Geral do GitHub
+## 📊 GitHub Overview
 
 <table align="center">
   <tr>
-    <td><strong>⭐ Repositórios</strong></td>
-    <td>Frameworks de testes, automação web, APIs e estudos técnicos</td>
+    <td><strong>⭐ Repositories</strong></td>
+    <td>Test frameworks, APIs, and technical, web automation studies</td>
   </tr>
   <tr>
     <td><strong>📝 Commits</strong></td>
-    <td>Entregas consistentes em automação, testes funcionais e melhoria contínua</td>
+    <td>Consistent contributions in automation, functional testing, and continuous improvement</td>
   </tr>
   <tr>
-    <td><strong>💬 Linguagens</strong></td>
-    <td>TypeScript, Python, JavaScript, Shell</td>
+    <td><strong>💬 Languages</strong></td>
+    <td>TypeScript, Shell</td>Script, Python, Java
   </tr>
   <tr>
-    <td><strong>🧪 Especialização</strong></td>
-    <td>Automação, Garantia de Qualidade, CI/CD e Arquitetura de Framework</td>
+    <td><strong>🧪 Expertise</strong></td>
+    <td>Automation, Quality Assurance, CI/CD, and Framework Architecture</td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Seção estática e totalmente estável — sem dependências externas.</em>
+  <em>Static and fully stable section — no external dependencies.</em>
 </p>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielsouza80/" target="_blank">
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  ✨ <em>"A qualidade nunca é um acidente de um esforço inteligente; é sempre o resultado."</em> — John Ruskin
+  ✨ <em>"Quality is never an accident; it is always the result of intelligent effort."</em> — John Ruskin
 </p>
