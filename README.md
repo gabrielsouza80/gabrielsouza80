@@ -1,27 +1,69 @@
 <h1 align="center">✨ Gabriel Souza</h1>
 
 <p align="center">
-  <strong>QA Engineer • Test Automation Specialist • CI/CD Practitioner</strong><br>
-  Building scalable, reliable, and quality‑driven automation frameworks.
+  <strong>QA Engineer | Manual & Automation Testing</strong><br>
+  Focused on web testing, API testing, test automation, and software quality.
 </p>
 
 ---
 
-## 🧰 Tech Stack & Tooling
+## 👨‍💻 About Me
+
+I am a QA Engineer with experience in Manual QA and Test Automation, working with web applications, functional testing, exploratory testing, bug reporting, test evidence documentation, and automation frameworks.
+
+My main focus is building practical QA projects using tools such as Playwright, TypeScript, Robot Framework, Python, SeleniumLibrary, Java, Rest Assured, Cucumber/Gherkin, and GitHub Actions.
+
+I am continuously improving my skills in software testing, automation best practices, API testing, BDD, CI/CD, and ISTQB CTFL concepts.
+
+---
+
+## 🧰 Main Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SeleniumLibrary-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 QA Portfolio Highlights
+
+| Area                | Projects / Focus                                                                |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Web Automation      | Playwright + TypeScript, Robot Framework + SeleniumLibrary                      |
+| API Testing         | Java + Rest Assured, REST endpoint validations                                  |
+| BDD                 | Cucumber/Gherkin scenarios and step definitions                                 |
+| Test Design         | Test cases, test scenarios, positive, negative and boundary scenarios           |
+| Framework Practices | Page Object Model, reusable locators, externalized test data, modular structure |
+| Reports & Evidence  | HTML reports, Allure reports, screenshots and test evidence                     |
+| CI/CD Studies       | GitHub Actions and Jenkins examples                                             |
+
+---
+
+## 📌 Featured Repositories
+
+### 🏔️ Travel Platform – Playwright + TypeScript
+
+End-to-end test automation project for a travel/booking platform, covering search, filters, results, product details and booking flow.
+
+### 🤖 Swag Labs – Robot Framework
+
+Web automation project using Robot Framework, Python and SeleniumLibrary, covering login, homepage, components and checkout flows.
+
+### ☕ Java Rest Assured Automation Suite
+
+API automation framework using Java, Rest Assured, Maven and JUnit 5, with CRUD validations and REST endpoint testing.
+
+### 🥒 Cucumber + Playwright + TypeScript + CI
+
+BDD automation project using Cucumber, Gherkin, Playwright, TypeScript, GitHub Actions and Jenkins examples.
 
 ---
 
@@ -30,25 +72,21 @@
 <table align="center">
   <tr>
     <td><strong>⭐ Repositories</strong></td>
-    <td>Test frameworks, APIs, and technical, web automation studies</td>
+    <td>QA automation frameworks, API testing studies, and web testing projects</td>
   </tr>
   <tr>
-    <td><strong>📝 Commits</strong></td>
-    <td>Consistent contributions in automation, functional testing, and continuous improvement</td>
+    <td><strong>🧪 Testing Focus</strong></td>
+    <td>Manual QA, Test Automation, Functional Testing, API Testing, BDD and Regression Testing</td>
   </tr>
   <tr>
-    <td><strong>💬 Languages</strong></td>
-    <td>TypeScript, Shell</td>Script, Python, Java
+    <td><strong>💻 Languages</strong></td>
+    <td>TypeScript, Python and Java</td>
   </tr>
   <tr>
-    <td><strong>🧪 Expertise</strong></td>
-    <td>Automation, Quality Assurance, CI/CD, and Framework Architecture</td>
+    <td><strong>🛠️ Practices</strong></td>
+    <td>Page Object Model, Data-Driven Testing, reusable components and test evidence</td>
   </tr>
 </table>
-
-<p align="center">
-  <em>Static and fully stable section — no external dependencies.</em>
-</p>
 
 ---
 
